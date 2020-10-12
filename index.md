@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my page
 
-I'm glad you are here. I plan to talk about ...
+This page is a test of Jekyll project.
+
+Thank you for visiting
